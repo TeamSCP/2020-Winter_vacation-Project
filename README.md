@@ -14,7 +14,6 @@
 
 ### :pushpin: Team 1 (Window Software Zero-Day Hunting)
 - 3_서동훈​
-
 - 2_문승재
 ### :pushpin: Team 2 (Wall Of Sheep)
 - 4_정재훈
