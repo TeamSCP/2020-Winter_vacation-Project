@@ -10,7 +10,7 @@
 
 - TeamNumber_Title.md, TeamNumber_Title.pdf
 
-  - ex) 4_BOF.pdf
+  - ex) Team4_BOF.pdf
 
 ### :pushpin: Team 1 (Window Software Zero-Day Hunting)
 - 3_서동훈​
